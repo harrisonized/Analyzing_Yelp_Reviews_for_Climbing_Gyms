@@ -10,6 +10,6 @@ Hence, I reluctantly had to resort to scraping Yelp, even though it is generally
 
 After merging the review and business data, I obtained a preliminary model using simple multi-class logistic regression and was able to adjust the weights of the multi-class logistic regression to balance the class predictions, thus improving my model's performance on 2- and 3-star reviews.
 
-Finally, I used non-negative matrix factorization in order to obtain a list of words representing the most important topics. This is a quick and qualitative sanity check, because the topics are reasonable within the class they represent (for example, 1-star reviews had many complaints about staff).
+Finally, I used non-negative matrix factorization in order to obtain a list of words representing the most important topics. This is a quick and qualitative sanity check, because the topics are reasonable within the class they represent (for example, 5-star reviews contained reviews about "day passes" or "membership").
 
 For more information, please read my blog post, which will be up in a few days.
