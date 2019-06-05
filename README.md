@@ -5,7 +5,7 @@ For this project, I analyzed [Yelp](https://www.yelp.com) customer reviews in or
 I had two goals:
 
 1. Given the text from a review, predict the number of stars given by the reviewer. 
-2. Given a corpus of 1- or 5-star reviews, I wanted to be able to find the topics that best model the reviews. 
+2. Given a corpus of 1- or 5-star reviews, find the most important topics.
 
 If I had more time, the next logical step would be to use these topics as features for my classification model to see if doing so improves my performance by reducing the modeling time without much loss of accuracy.
 
