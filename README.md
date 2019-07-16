@@ -15,4 +15,4 @@ To obtain the review data, I built my own scraper and scraped Yelp. I aimed to k
 
 To get the data on the number of new gyms in the US, I simply downloaded the data from the Climbing Business Journal [here](http://www.climbingbusinessjournal.com/gyms-and-trends-of-2016/). I replotted it using Plotly to make it consistent with the rest of my plots.
 
-For more information, please read my [blog post](https://harrisonized.github.io/2019/06/05/Project-4.html), which will be updated in a few days.
+For more information, please read my [blog post](https://harrisonized.github.io/2019/05/30/yelp-climbing-gyms.html), which will be updated in a few days.
