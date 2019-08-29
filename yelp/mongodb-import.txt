@@ -1,0 +1,2 @@
+mongoimport --db yelp_climbing_gyms --collection reviews --file '/home/harrisonized/github/yelp-climbing-gyms/yelp/data/climbing-gym-reviews.json'
+mongoimport --db yelp_climbing_gyms --collection business --file '/home/harrisonized/github/yelp-climbing-gyms/yelp/data/climbing-gym-business.json'
